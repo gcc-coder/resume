@@ -2,40 +2,30 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
-        "profession": "计算机科学与技术",
+        "name": "郭瑞龙",
+        "description": "不积跬步无以至千里，不积小流无以成江海！",
+        "school": "山东大学",
+        "profession": "计算机信息管理",
         "sex": "男",
         "education" : "本科",
-        "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "workage": "2014年毕业",
+        "phone": "17710290729",
+        "email": "gcc-coder@hotmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/gcc-coder",
             "icon": ""
         },
         {
-            "type": "weibo",
-            "link": "http://weibo.com",
+            "type": "yuque",
+            "link": "https://www.yuque.com/cc8816",
             "icon": ""
         },
         {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "https://github.com/Jayin",
+            "type": "51cto",
+            "link": "https://blog.51cto.com/firelong",
             "icon": ""
         }
     ],
